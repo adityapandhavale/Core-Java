@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="179d0194-16ae-49e1-b4c5-0fb3662f4826" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionInterfaces/Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionInterfaces/CollectionInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionInterfaces/MapsInCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/AbstractDataType/AbstractDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/AbstractDataType/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Algorithms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/EnumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/UseOfConstructorUsingEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/PolymorphismExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApis/StreamAPIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadsInJava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadsInJava/ThreadsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/AbstactionInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/innerclasses/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/innerclasses/SourceCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/innerclasses/annanomousinnerclass/AnnanomousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstaction/innerclasses/annanomousinnerclass/ImplementationOfAIC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/Varibles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayrefrences/ArrayOfReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPrograms/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPrograms/HelloWrold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesandmethods/ClassesAndMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatements/CondtionalStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Constructers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputFromUsers/InputFromUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputFromUsers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ClassImplementingTheInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/LoopStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodoverloading/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageExample/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageExample/PackagesInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticKeyworda/StaticKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/StringInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superandthiskeywords/SuperAndThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typecastingAndConverions/TypeCastingAndConversion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gdKwmA9bhmHThkFskNTBIzN63u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.AccessModifiers.executor": "Run",
+    "Application.AddTwoNumbers.executor": "Run",
+    "Application.AnnanomousInnerClass.executor": "Run",
+    "Application.ArrayOfReference.executor": "Run",
+    "Application.Arrays (1).executor": "Run",
+    "Application.Arrays (2).executor": "Run",
+    "Application.Arrays (3).executor": "Run",
+    "Application.Arrays (4).executor": "Run",
+    "Application.Arrays (5).executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.ClassesAndMethods.executor": "Run",
+    "Application.CollectionInterfaces.Main.executor": "Run",
+    "Application.CondtionalStatements.executor": "Run",
+    "Application.Constructers (1).executor": "Run",
+    "Application.Constructers (2).executor": "Run",
+    "Application.Constructers.executor": "Run",
+    "Application.DSA.Algorithms.Main (1).executor": "Run",
+    "Application.DSA.Algorithms.Main (2).executor": "Run",
+    "Application.DSA.Algorithms.Main (3).executor": "Run",
+    "Application.DSA.Algorithms.Main (4).executor": "Run",
+    "Application.DSA.Algorithms.Main.executor": "Run",
+    "Application.Encapsulation (1).executor": "Run",
+    "Application.Encapsulation (2).executor": "Run",
+    "Application.Encapsulation (3).executor": "Run",
+    "Application.Encapsulation (4).executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.EnumMain.executor": "Debug",
+    "Application.Enumration (1).executor": "Run",
+    "Application.Enumration (2).executor": "Run",
+    "Application.Enumration (3).executor": "Run",
+    "Application.Enumration (4).executor": "Run",
+    "Application.Enumration.executor": "Run",
+    "Application.Inheritance (1).executor": "Run",
+    "Application.Inheritance (2).executor": "Run",
+    "Application.Inheritance (3).executor": "Run",
+    "Application.Inheritance (4).executor": "Run",
+    "Application.Inheritance (5).executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InnerClass.executor": "Run",
+    "Application.Interfaces.executor": "Run",
+    "Application.LoopStatements.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainClass (1).executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.MethodOverloading (1).executor": "Run",
+    "Application.MethodOverloading (2).executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.PackagesInJava.executor": "Run",
+    "Application.PolymorphismExample.executor": "Run",
+    "Application.StaticKeyWord (1).executor": "Run",
+    "Application.StaticKeyWord (2).executor": "Debug",
+    "Application.StaticKeyWord (3).executor": "Run",
+    "Application.StaticKeyWord (4).executor": "Run",
+    "Application.StaticKeyWord (5).executor": "Debug",
+    "Application.StaticKeyWord.executor": "Run",
+    "Application.StreamApis.Main.executor": "Run",
+    "Application.StringInArray.executor": "Run",
+    "Application.SuperAndThis (1).executor": "Run",
+    "Application.SuperAndThis (2).executor": "Run",
+    "Application.SuperAndThis (3).executor": "Run",
+    "Application.SuperAndThis (4).executor": "Run",
+    "Application.SuperAndThis (5).executor": "Run",
+    "Application.SuperAndThis.executor": "Run",
+    "Application.ThreadsInJava.Main.executor": "Run",
+    "Application.TypeCastingAndConversion.executor": "Run",
+    "Application.exceptions.Main.executor": "Run",
+    "Application.inputFromUsers.Main.executor": "Run",
+    "Application.interfaces.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.org.junit.jupiter.api in Core Java.executor": "Run",
+    "Java Scratch.Arrays.executor": "Run",
+    "Java Scratch.MethodOverloading.executor": "Debug",
+    "Java Scratch.Scratch.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "abstaction.AbstactionInJava",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jatin/IdeaProjects/Core Java/src/arrays",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.junit.jupiter.api" />
+      <recent name="Enum" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jatin\IdeaProjects\Core Java\src\arrays" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jatin\AppData\Roaming\JetBrains\IdeaIC2024.1\scratches" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="abstaction.AbstactionInJava" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="abstaction" />
+      <recent name="DSA.Algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.junit.jupiter.api in Core Java">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Algorithms.Main" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Algorithms.Main" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Algorithms.Main" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Algorithms.Main" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.junit.jupiter.api in Core Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.junit.jupiter.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.junit.jupiter.api" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.junit.jupiter.api in Core Java" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179d0194-16ae-49e1-b4c5-0fb3662f4826" name="Changes" comment="" />
+      <created>1716022258099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716022258099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" log-message="true" log-stack="true" type="java-exception">
+          <properties class="LoopStatements" package="" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/StringInArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/annotations/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/LoopStatements.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" log-message="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_Java$Main.ic" NAME="Main Coverage Results" MODIFIED="1717879296761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>annotations.*</FILTER>
+    </SUITE>
+  </component>
+</project>
